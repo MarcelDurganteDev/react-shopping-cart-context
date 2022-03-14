@@ -48,7 +48,6 @@ function Cart({ cartItems, handleRemove, handleChange, ...props }) {
               </div>
               <hr />
             </div>
-            
             <div className="col">
               <Button>Checkout</Button>
             </div>
